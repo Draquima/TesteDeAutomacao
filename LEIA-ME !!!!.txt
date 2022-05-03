@@ -1,0 +1,22 @@
+Step by Step de como rodar o ambiente de testes.
+
+1- Baixe node.js na versão 14.18.1 no seu sistema operacional 64 bits. Link do site https://nodejs.org/en/download/releases/
+
+Para verificar se realmente está baixado, abra o CMD e escreva:
+'node --version' e 'npm --version'
+Se mostrou as versões, está instalado.
+
+
+1.1- Baixe Visual Studio Code para o seu sistema operacional
+
+1.2- Baixe o meu arquivo zipado
+(link)
+
+
+
+2- Crie a pasta com o nome do projeto que deseja, extraia o arquivo zipado dentro, e navegue para a pasta com o CMD
+
+Obs: Utilize o comando cd para a navegação. Por exemplo: cd /c/users/nome-do-usuário/desktop/nome-do-projeto
+
+3- Agora para abrir o cypress, use o comando no cmd 'npm run test'
+

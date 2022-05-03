@@ -1,0 +1,21 @@
+{
+  "name": "webjump",
+  "version": "1.0.0",
+  "description": "Projeto de requisição do webjump",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Draquima",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.3",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "faker": "^5.5.3"
+  },
+  "dependencies": {
+    "cypress-xpath": "^1.6.2",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}

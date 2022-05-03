@@ -1,0 +1,40 @@
+{
+    "signup": {
+        "name": "Draquima",
+            "cpf": "12345678912",
+            "email": "penis@hotmail.com.br",
+            "whatsapp": "111111111111",
+            "adress": {
+                "postalcode": "04814180",
+                "phone_number": "1190803289",
+                "complement": "Ap casa vermelha",
+
+                "district": "Jardim Maria Rita",
+                "street": "Rua José Francisco de Freitas",
+                "city_state": "São Paulo/SP"
+
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Draquima",
+            "cpf": "12345678912",
+            "email": "penis.hotmail.com.br",
+            "whatsapp": "111111111111",
+            "adress": {
+                "postalcode": "04814180",
+                "phone_number": "1190803289",
+                "complement": "Ap casa vermelha",
+
+                "district": "Jardim Maria Rita",
+                "street": "Rua José Francisco de Freitas",
+                "city_state": "São Paulo/SP"
+
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+    
+}
